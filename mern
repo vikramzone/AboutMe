@@ -1,0 +1,23 @@
+<html lang="en">
+  <head>
+    
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" >
+</head>
+  <body>
+      <div class="container">
+<h3 class="mb-0" align="center"> Welcome to my MERN stack App ! </h3>
+    <br><p class="mb-0" align="center"> Find the source code <a href="https://github.com/vikramzone/JobTracker-MERN_stack.git"> here</a>
+    </p> 
+    <br><h4 class="mb-0" align="center"> Below is a demo of Adding, editing and Deleting a Job Application (CRUD Operations) ! </h3>
+<br><br>
+ 
+    <video name="media" height="600" width="1200" controls autoplay><source src="https://p63.f2.n0.cdn.getcloudapp.com/items/z8unPwbg/Screen+Recording+2019-12-23+at+09.55.59.64+PM.mp4" type="video/mp4"></video>  
+<br>      
+     </div>
+  </body>
+</html>  
